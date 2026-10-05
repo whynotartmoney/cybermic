@@ -1,0 +1,40 @@
+#pragma once
+
+// English on-screen copy. Orbitron supplies every glyph.
+
+#define MICK_WORD_CYBER "CYBER"
+#define MICK_WORD_CITY "CITY"
+#define MICK_SUBTITLE "MOVING ART"
+#define MICK_BATT_UNKNOWN "--"
+
+#define MICK_ROW_COUNT_LABEL "COUNT"
+#define MICK_ROW_COLOR_LABEL "COLOR"
+#define MICK_ROW_TEMPO_LABEL "TEMPO"
+
+#define MICK_MONO "MONO"
+#define MICK_MULTI "MULTI"
+#define MICK_SEC1 "1s"
+#define MICK_SEC2 "2s"
+#define MICK_SEC5 "5s"
+#define MICK_SEC10 "10s"
+#define MICK_DRIFT "DRIFT"
+#define MICK_IMPACT "IMPACT"
+
+#define MICK_ROW_PAPER_LABEL "PAPER"
+#define MICK_PAPER_WHITE "WHITE"
+#define MICK_PAPER_GRAY "GRAY"
+#define MICK_PAPER_BLACK "BLACK"
+#define MICK_PAPER_BEIGE "BEIGE"
+#define MICK_PAPER_CREAM "CREAM"
+#define MICK_PAPER_WHEAT "WHEAT"
+
+#define MICK_KIND_DISC "CIRCLE"
+#define MICK_KIND_TRI "TRIANGLE"
+#define MICK_KIND_BAR "BAR"
+#define MICK_KIND_RING "RING"
+#define MICK_KIND_DIAMOND "DIAMOND"
+#define MICK_KIND_ARC "ARC"
+#define MICK_KIND_CROSS "CROSS"
+#define MICK_KIND_LINE "LINE"
+#define MICK_KIND_WEDGE "WEDGE"
+#define MICK_KIND_MIX "MIX"
